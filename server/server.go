@@ -1,8 +1,8 @@
 package server
 
 import (
-	"projects/socket_component/server/listener"
-	"projects/socket_component/server/connection"
+	"socket_component/server/listener"
+	"socket_component/server/connection"
 	"net"
 	"fmt"
 )

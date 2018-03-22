@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"projects/socket_component/server/connection"
-	"projects/socket_component/util"
-	"projects/socket_component/server"
+	"socket_component/server/connection"
+	"socket_component/util"
+	"socket_component/server"
 )
 
 type TopProcesser struct{
